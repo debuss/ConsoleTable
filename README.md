@@ -52,7 +52,6 @@ $console_table->display($display_as_html);
 +----+----------------+--------------+
 | #  | Transportation | Speed (Km/h) |
 +----+----------------+--------------+
-| 42 | Skateboard     | 8            |
 | 1  | Plane          | 880          |
 | 2  | Train          | 300          |
 | 3  | Car            | 150          |
