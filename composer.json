@@ -1,0 +1,17 @@
+{
+  "name": "debussa/console-table",
+  "description": "Library that makes it easy to build console style tables, inspired by PEAR package Console_Table of Jan Schneider.",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandre Debusschere",
+      "email": "zizilex@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "debussa\\ConsoleTable\\": "src"
+    }
+  }
+}
