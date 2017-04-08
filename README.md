@@ -5,7 +5,7 @@ Library that makes it easy to build console style tables, inspired by PEAR packa
 ## Usage
 
 ```php
-require_once __DIR__.'/src/ConsoleTable.php';
+require_once __DIR__.'/vendor/autoload.php';
 
 use debussa\ConsoleTable\ConsoleTable;
 
